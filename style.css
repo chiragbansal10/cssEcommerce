@@ -1,0 +1,28 @@
+.table tr{
+    background-color: black;
+}
+.tv{
+    /* display: flex;
+    justify-content: center; */
+
+    padding-left: 50%;
+}
+body{
+    background-color: #e9edee;
+}
+table tr td input{
+   
+     background-color:#ff9e01;
+    
+}
+table tr td img{
+    margin-left: 20%;
+}
+.product tr td{
+   
+    background-color: white;
+    
+}
+table{
+    border-spacing: 15px;
+}
