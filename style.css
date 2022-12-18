@@ -9,15 +9,14 @@
 }
 body{
     background-color: #e9edee;
+    margin: 0;
 }
 table tr td input{
    
      background-color:#ff9e01;
     
 }
-table tr td img{
-    margin-left: 20%;
-}
+
 .product tr td{
    
     background-color: white;
@@ -25,4 +24,7 @@ table tr td img{
 }
 table{
     border-spacing: 15px;
+}
+.product{
+width: 100%;
 }
